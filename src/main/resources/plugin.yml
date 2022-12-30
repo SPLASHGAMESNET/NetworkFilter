@@ -1,0 +1,4 @@
+name: NetworkFilter
+author: Lesauw
+version: 1.0
+main: net.splashgames.networkfilter.NetworkFilter
